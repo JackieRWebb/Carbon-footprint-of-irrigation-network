@@ -1,4 +1,4 @@
-# Data associated with the paper: Low greenhouse emissions and high carbon burial from irrigation canals and reservoirs 
+# Data associated with the paper: Greenhouse emissions and carbon burial from irrigation canals and reservoirs 
 
 Authors: Jackie R Webb*, Hayley Dryza, David Dodemaide
 Project funded by Murrumbidgee Irrigation Limited
